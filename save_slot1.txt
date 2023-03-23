@@ -1,0 +1,10 @@
+A
+D
+90
+aaa
+5
+1
+True
+84
+False
+0
